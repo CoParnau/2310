@@ -1,0 +1,42 @@
+header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* background-color: rgb(202, 202, 201); */
+    /* border: solid; */
+}
+#telefon{
+    margin-right: 350px;
+    font-size: 20px;
+}
+img{
+    margin-right: 50px;
+}
+.topButon{
+    margin-left: 40px;
+    font-size: 20px;
+}
+#topButonPro{
+    margin-left: 150px;
+    font-size: 20px;
+}
+/* mai sus este header cu logo numar de contact si 3 butoane */
+
+
+
+
+footer{
+    height: 200px;
+    width: 100%;
+    background-color: rgb(153, 153, 153);
+    display: flex;
+    justify-content: space-evenly;
+}
+.footerBox{
+    margin-top: 5px;
+}
+#footerMedia {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
